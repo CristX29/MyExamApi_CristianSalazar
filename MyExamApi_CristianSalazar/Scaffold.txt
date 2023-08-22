@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext -f "SERVER=DESKTOP-A0CTDNO\SQLEXPRESS; DATABASE= AnswersDB; INTEGRATED SECURITY=FALSE; USER ID= PROGRAEXAM; PASSWORD=123" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models"
